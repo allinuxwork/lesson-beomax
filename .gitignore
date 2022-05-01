@@ -1,0 +1,22 @@
+
+# idea
+*.ipr
+*.iws
+*.iml
+.idea/*
+
+# gradle
+.gradle/*
+build/*
+out/*
+gradlew
+*.gradle
+*.bat
+gradle/*
+
+# vs code
+.classpath
+.project
+.settings
+.classpath
+bin/*
