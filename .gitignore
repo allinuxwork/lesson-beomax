@@ -20,3 +20,6 @@ gradle/*
 .settings
 .classpath
 bin/*
+Calculator
+LessonYLabLeaning
+hello kotlin
