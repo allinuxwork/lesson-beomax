@@ -23,3 +23,6 @@ bin/*
 Calculator
 LessonYLabLeaning
 hello kotlin
+
+.*
+bin
